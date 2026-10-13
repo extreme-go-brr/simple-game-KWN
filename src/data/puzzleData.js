@@ -5,7 +5,7 @@ export const puzzleCategories = [
     id: "pangan",
     title: "Ketahanan Pangan",
     description: "Menjaga ketersediaan dan kemandirian pangan nasional.",
-    image: "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=600&q=80",
+    image: "https://plus.unsplash.com/premium_photo-1686529896385-8a8d581d0225?auto=format&fit=crop&w=600&q=80",
     trivia: "Ketahanan pangan bukan hanya soal ketersediaan makanan, tapi juga keterjangkauan dan pemanfaatan gizi yang merata di seluruh wilayah Indonesia."
   },
   {
@@ -19,7 +19,7 @@ export const puzzleCategories = [
     id: "budaya",
     title: "Ketahanan Budaya",
     description: "Melestarikan nilai luhur dan kebudayaan bangsa di tengah arus globalisasi.",
-    image: "https://images.unsplash.com/photo-1599813581725-d3680e608021?auto=format&fit=crop&w=600&q=80",
+    image: "https://images.unsplash.com/photo-1727341856911-1c540bedfbb1?auto=format&fit=crop&w=600&q=80",
     trivia: "Kepribadian bangsa dan kearifan lokal adalah benteng pertahanan non-militer yang paling kuat untuk menjaga persatuan Indonesia."
   },
   {
