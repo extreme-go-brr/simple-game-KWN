@@ -28,5 +28,12 @@ export const puzzleCategories = [
     description: "Menjaga keamanan dan kekayaan sumber daya di perairan nusantara.",
     image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=600&q=80",
     trivia: "Sebagai negara kepulauan terbesar, kekuatan maritim menentukan poros ekonomi dan kedaulatan batas wilayah laut Indonesia."
+  },
+  {
+    id: "hakikat",
+    title: "Hakikat Ketahanan Nasional",
+    description: "Mengembangkan kekuatan nasional.",
+    image: "https://images.unsplash.com/photo-1628880184708-056d212068a8?auto=format&fit=crop&w=600&q=80",
+    trivia: "Ketahanan nasional adalah kondisi dinamis suatu bangsa yang berisi keuletan, ketangguhan, dan kemampuan dalam mengembangkan kekuatan nasional untuk menghadapi segala bentuk ancaman."
   }
 ];
